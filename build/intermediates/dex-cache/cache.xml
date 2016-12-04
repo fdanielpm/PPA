@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_6bc7d00782157023ed62feb6413b0edd0c72c0af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_8fcd40d39cc976d5e1511e034e03db606409b498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ea7536442ed45ce6b08cd263229f2348ea6b0c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_a3482f3320c0d5db46f0c109a32fb777e5dec53f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="35d6bdd24894d34c5f65657e7c455333f726a908">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f676ecf6b6789759a32bdd181254f6f9bb19085b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_15b2f2813f11adf539be26562ce9b13725862304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_c17ae89226d8935031ca35849dd7f4585b65d869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_fb8a397c11584bec73d52ef53939674d7d9c67bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2b639124692aafd951418163ff5cb7d72414f536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11e75409300f02f7d778efda67ed974bc6240d88">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/instant-run_0c28ce29d0505693d3858487965543d39884e3cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_428104de174c1843976c5d4c35b36adf752278dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_a83620e42a18e34f897bb027407e716e6c68b989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_13df3c940abc874c568aef7a8fd753af8083af8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_434d3d7365be96eade9146ff67e9c32c214f88a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_dae1d3eba8ff837fad0e4d2faa5bf2b4177dc33f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_d2d2e6471991d5575b85215875dcbdf744ebeb1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_66f33758536f8504610083f6c2755c5a669f1fbf.jar" />
+    </item>
+
+</items>

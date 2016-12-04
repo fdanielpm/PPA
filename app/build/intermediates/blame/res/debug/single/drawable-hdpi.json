@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/res/merged/debug/drawable-hdpi/background_new.9.png",
+        "source": "/home/darkp/AndroidStudioProjects/PPA/app/src/main/res/drawable-hdpi/background_new.9.png"
+    },
+    {
+        "merged": "/home/darkp/AndroidStudioProjects/PPA/app/build/intermediates/res/merged/debug/drawable-hdpi/background_app.9.png",
+        "source": "/home/darkp/AndroidStudioProjects/PPA/app/src/main/res/drawable-hdpi/background_app.9.png"
+    }
+]
